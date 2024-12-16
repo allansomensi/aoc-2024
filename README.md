@@ -1,6 +1,6 @@
-# Advent Of Code 2024 🎄
+# Advent of Code 2024 🎄
 
-My **Rust** solutions for the **AOC 2024** challenges.
+My **Rust** solutions for the **AoC 2024** challenges.
 
 ### ⚖️ Legal
 For copyright reasons, the `puzzle inputs` shared here are **fictional** and have been created solely for testing algorithms.
